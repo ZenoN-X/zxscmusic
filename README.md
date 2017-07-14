@@ -1,5 +1,5 @@
 # Bir scribbletunes uygulaması.
-## can sıkıntısı için birebirdir scribbletunes.
+## can sıkıntısı için birebirdir.
 
 ### Yüklemek İçin.
 `git clone https://github.com/ZenoN-X/zxscmusic.git`
